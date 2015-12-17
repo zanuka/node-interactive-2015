@@ -66,6 +66,17 @@ Node’s success depends on its growth into the enterprise, and **"open source i
 
 :video_camera: [video](https://youtu.be/5ikjwX2ur2U)
 
+# Serving the Node.js Enterprise, Thus Serving the Community
+Joe McCann, NodeSource
+
+Finally Joe McCann, the CEO of NodeSource, spoke about the Node community and how to grow it.
+
+He asked "How can we double the size of the Node community in one year?" The answer, he said was to embrace developers, ops engineers, and CIOs/CTOs. He emphasized the importance of embracing the power of diversification: "diversity trumps ability." The more experiences, viewpoints, and perspectives that members of the Node community have, the better the outcome for the project itself.
+
+Then he detailed some of the challenges facing people in various roles throughout the enterprise: developers, ops engineers, and executives.
+
+:video_camera: [VIDEO](https://youtu.be/wF1oNXeFnWI)
+
 # Node.js at GoDaddy
 Charlie Robbins - Directory of UX platform, GoDaddy
 * also the founder of nodejitsu
