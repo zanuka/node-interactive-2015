@@ -15,12 +15,10 @@ Even more exciting is what’s happening in the ecosystem: npm module counts sta
 
 :video_camera: [video](https://youtu.be/O28Knn00qYo)
 
-# The World is being Reinvented in Code- Jason Gartner
+# The World is being Reinvented in Code
 Jason Gartner - vice-president of Interactive Services development, IBM
 
-:video_camera: [video](https://youtu.be/iiLCWMoI6D0)
-
-The next speaker was Jason Gartner, vice-president of Interactive Services development at IBM, with a talk entitled "The World is being reinvented in code." He started with a question: Why is IBM interested in Node, and how are we taking it forward? The answer, in a word (or rather, an acronym) is APIs. According to polls, the top use cases for Node are REST APIs and realtime services.
+Started with a question: Why is IBM interested in Node, and how are we taking it forward? The answer, in a word (or rather, an acronym) is APIs. According to polls, the top use cases for Node are REST APIs and realtime services.
 
 The next killer app, he said, isn’t going to be an app, its going to be an API, specifically a REST API. Every company is transforming into a digital business for which APIs are critically important to interact with customers, vendors, partners, and more. IBM refers to this as the "API economy." By 2018, he said, the API economy will be worth $2.2 trillion.
 
@@ -35,6 +33,8 @@ The next killer app, he said, isn’t going to be an app, its going to be an API
 [IBM Presence Highlights](http://www-03.ibm.com/software/products/en/ibm-presence-insights)
 [Strongloop Arc](https://strongloop.com/node-js/arc/)
 [IBM API Harmony for Bluemix](https://developer.ibm.com/bluemix/2015/07/01/api-harmony/)
+
+:video_camera: [video](https://youtu.be/iiLCWMoI6D0)
 
 # Node.js at Uber
 Tom Croucher - engineering manager, Uber
