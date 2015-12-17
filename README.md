@@ -13,7 +13,7 @@ With the release of Node.js v4.0.0, the node.js and io.js projects resolved thei
 
 Even more exciting is what’s happening in the ecosystem: npm module counts started increasing and npm downloads have gone up dramatically. Snell finished by saying he’s excited to see how people leverage Node to build great things in the coming year.
 
-:video_camera: [video](https://youtu.be/O28Knn00qYo)
+:movie_camera: [video](https://youtu.be/O28Knn00qYo)
 
 # The World is being Reinvented in Code
 Jason Gartner - vice-president of Interactive Services development, IBM
@@ -34,7 +34,7 @@ The next killer app, he said, isn’t going to be an app, its going to be an API
 [Strongloop Arc](https://strongloop.com/node-js/arc/)
 [IBM API Harmony for Bluemix](https://developer.ibm.com/bluemix/2015/07/01/api-harmony/)
 
-:video_camera: [video](https://youtu.be/iiLCWMoI6D0)
+:movie_camera: [video](https://youtu.be/iiLCWMoI6D0)
 
 # Node.js at Uber
 Tom Croucher - engineering manager, Uber
@@ -47,7 +47,7 @@ He recommended that everyone read Steve Yegge’s "platform rant" from 2001 that
 
 He also noted that Uber loves open source and contributing to the open source community. See http://uber.github.io/ for a list of projects.
 
-:video_camera: [video](https://youtu.be/ElI5QtUISWM)
+:movie_camera: [video](https://youtu.be/ElI5QtUISWM)
 
 # Node.js and npm by Numbers
 Ashley Williams - developer community and content manager, npm
@@ -64,18 +64,27 @@ In the last year, npm has served over 19 billion package downloads, over half of
 
 Node’s success depends on its growth into the enterprise, and **"open source is the largest enterprise"** and concluded by saying they are excited to enable more, and more diverse, developers to collaborate and are humbled to be a part of Node’s success.
 
-:video_camera: [video](https://youtu.be/5ikjwX2ur2U)
+:movie_camera: [video](https://youtu.be/5ikjwX2ur2U)
 
 # Serving the Node.js Enterprise, Thus Serving the Community
 Joe McCann, NodeSource
 
-Finally Joe McCann, the CEO of NodeSource, spoke about the Node community and how to grow it.
+Spoke about the Node community and how to grow it by asking "How can we double the size of the Node community in one year?" The answer, he said was to embrace developers, ops engineers, and CIOs/CTOs.
 
-He asked "How can we double the size of the Node community in one year?" The answer, he said was to embrace developers, ops engineers, and CIOs/CTOs. He emphasized the importance of embracing the power of diversification: "diversity trumps ability." The more experiences, viewpoints, and perspectives that members of the Node community have, the better the outcome for the project itself.
+He emphasized the importance of embracing the power of diversification: "diversity trumps ability." The more experiences, viewpoints, and perspectives that members of the Node community have, the better the outcome for the project itself.
 
 Then he detailed some of the challenges facing people in various roles throughout the enterprise: developers, ops engineers, and executives.
 
-:video_camera: [VIDEO](https://youtu.be/wF1oNXeFnWI)
+:movie_camera: [VIDEO](https://youtu.be/wF1oNXeFnWI)
+
+# Streams and You: A Love Story
+Calvin Metcalf - Cartographer, AppGeo
+
+:floppy_disk: [github](https://github.com/calvinmetcalf/streams-a-love-story)
+
+:closed_book: [slides](http://streams.how/#1)
+
+:movie_camera: [video](https://youtu.be/TyXgy5Wm948)
 
 # Node.js at GoDaddy
 Charlie Robbins - Directory of UX platform, GoDaddy
@@ -85,7 +94,7 @@ Fun facts about Winston:
     - winston is 50% faster than Bunyan
     - winston no longer has a default transport for console.log
 
-:video_camera: [video](https://youtu.be/MtpGVP-Qs-k)
+:movie_camera: [video](https://youtu.be/MtpGVP-Qs-k)
 
 # Node.js API pitfalls
 [Video](https://youtu.be/jJaIwea8r2A)
