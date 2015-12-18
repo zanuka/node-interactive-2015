@@ -28,10 +28,10 @@ The next killer app, he said, isn’t going to be an app, its going to be an API
 - Expanding the number connectors to legacy systems where data currently resides.
 - Making Node solutions available on IBM Bluemix and projects from Bluemix garage.
 
-**Related Links**
-[IBM Presence Highlights](http://www-03.ibm.com/software/products/en/ibm-presence-insights)
-[Strongloop Arc](https://strongloop.com/node-js/arc/)
-[IBM API Harmony for Bluemix](https://developer.ibm.com/bluemix/2015/07/01/api-harmony/)
+##### Related Links
+- [IBM Presence Highlights](http://www-03.ibm.com/software/products/en/ibm-presence-insights)
+- [Strongloop Arc](https://strongloop.com/node-js/arc/)
+- [IBM API Harmony for Bluemix](https://developer.ibm.com/bluemix/2015/07/01/api-harmony/)
 
 :movie_camera: [video](https://youtu.be/iiLCWMoI6D0)
 
