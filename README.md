@@ -1,7 +1,6 @@
 # node-interactive-2015
 notes, videos, and links from the conference in Portland, OR
 
-
 ### Convergence: Evolving Node.js with Open Governance and an Open Community
 
 #### James Snell
@@ -80,24 +79,75 @@ Then he detailed some of the challenges facing people in various roles throughou
 # Streams and You: A Love Story
 Calvin Metcalf - Cartographer, AppGeo
 
+Streams are a powerful part of the node.js ecosystem but can also be an intimidating part of node even for programmers who regularly use node. This talk would go over the basic concepts of streams such as pipes and back pressure and how to use them in real word ways with an aim for people to be able to leave the talk and be able to use the internal http module instead of the request module and pipe data around like a plumber.
+
 :floppy_disk: [github](https://github.com/calvinmetcalf/streams-a-love-story)
 
 :closed_book: [slides](http://streams.how/#1)
 
 :movie_camera: [video](https://youtu.be/TyXgy5Wm948)
 
-# Node.js at GoDaddy
+
+# Debugging Node.js in production
+Yunong Xiao, Netflix
+
+In this talk we learned about tools and methodologies we use in production at Netflix to diagnose and fix performance issues, bugs and memory leaks -- all without having to restart or change our Node application. Find out about profiling and post mortem tools such as perf events and mdb, visualizations like flame graphs and latency distributions, and how they help us keep our Node stack efficient.
+
+:movie_camera: [video](https://youtu.be/CiqzuIUwHl8)
+
+# Terminal Output to the Browser in Seconds, Using UNIX Pipes
+Kilian Ciuffolo and Luca Orio, Lukibear
+
+Whether you deploy your code on remote servers using multiple environments or simply have multiple projects, you must ssh to each machine running your code, in order to monitor the logs in realtime.
+
+There are many log aggregation tools out there, but few of them are realtime. Most other tools require you to change your application source code to support their logging protocol/transport.
+
+rtail is meant to be a replacement of logio, which isn't actively maintained anymore, doesn't support node v0.12., and uses TCP. (TCP requires strict client / server handshaking, is resource-hungry, and very difficult to scale.)
+
+:movie_camera: [video](https://youtu.be/5IHWfgX3RJs)
+
+# Getting a Handle On Your Dependencies
+Dan Silivestru, bitHound
+
+Here at bitHound we’ve analyzed almost all of the npm registry as well as thousands of other projects. We’ve learned some very interesting lessons with regards to managing our own dependencies and gained some great insights with respect to how dependencies are used across the JavaScript community.
+
+:movie_camera: [video](https://youtu.be/2_aclLr3o5s)
+
+# Hands on Hardware Workshop with Tessel
+Kelsey Breseman, Tessel Project
+
+Hacking on hardware with Node. Whether you've never touched hardware before or you're experienced with electronics, this workshop will let you use Node to build interactions with the physical world. You will be able to build something interesting in the allotted time. Kelsey will provide assistance, tools, and ideas.
+
+:movie_camera: [video](https://youtu.be/uYcE4r0j8Zw)
+
+
+# Building and Engaging High Performance Teams in the Node.js Ecosystem
+Chanda Dharap, StrongLoop Inc, an IBM Company
+
+There are many dimensions to building and working with teams in the Node.js stack. Hiring is one of the challenges, but hiring isn’t the only issue when moving development to the Nodejs stack. Some of the challenges are around understanding the open source culture - the passion for code hygenie and peer reviews, the semantics of versioning, and the ease with which the community updates to every latest version is unique.
+
+The fast pace and prolific nature of StrongLoop’s module ecosystem forced us to recognize and optimize practices around tools, and processes needed to maintain over 150 repositories all packaged into a solution targeted at Enterprise.
+
+:movie_camera: [video](https://youtu.be/OV2484MKwhw)
+
+# Modernizing Winston for Node.js v4
 Charlie Robbins - Directory of UX platform, GoDaddy
 * also the founder of nodejitsu
+
+Winston is the most popular logging library for node. Released in early 2011, it is almost old as node itself. Yet its popularity persists with over 2M monthly downloads and over 200 community contributed packages.
+
+Over the years it has evolved as node and JavaScript have mature as platforms. Did you know that when winston was written there was no streams implementation as we know it today? And certainly no streams2 or streams3 specification. There were no good code coverage tools and mocha didn't even exist yet! But what's most want to know is how winston is better.
+
+This talk will covers the road to winston@3.0.0 and highlight how the module ecosystem has evolved along side through hard work of a handful of dedicated core contributors, careful API design, utilizing ES6 features since node@0.12.x, and practical benchmarking and analysis.
 
 Fun facts about Winston:
     - winston is 50% faster than Bunyan
     - winston no longer has a default transport for console.log
 
-:movie_camera: [video](https://youtu.be/MtpGVP-Qs-k)
+:movie_camera: [video](https://youtu.be/uPw7QIx3JZM)
 
 # Node.js API pitfalls
-[Video](https://youtu.be/jJaIwea8r2A)
+:movie_camera: [video](https://youtu.be/jJaIwea8r2A)
 
 
 
