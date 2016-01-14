@@ -302,6 +302,30 @@ This talk will cover the tools that nearForm use to develop micro-services in th
 
 :movie_camera: [video](https://www.youtube.com/watch?v=jm75pxsb80c)
 
+### How to Build and Deploy Open Source Application Monitoring Solutions
+Chris Bailey, IBM
+
+Even the most innovative and groundbreaking applications risk failure if they do not provide an engaging and responsive user experience. Performance and scalability both require access to real-time performance data that lets developers optimize code, allows the infrastructure to scale automatically, enables operations teams to identify issues, and gives business owners insights into the success of the application.
+
+This session will show you how to add application performance monitoring and analytics capabilties to your application, using the open source Node Application Metrics data collector, alongside open source monitoring stacks like StatsD with Graphite, and Elasticsearch with Kibana.
+
+:movie_camera: [video](https://www.youtube.com/watch?v=ix3tRagIpwA)
+
+### Building Interactive npm Command Line Modules -- All The Things.
+Irina Shestak
+
+Here you are coding away, when you realize you're in desperate need of a quick shell script to get your project cleaned up. You're standing at a fork in the road: Bash or Node? You choose the road less travelled by (for some reason) -- Node. I congratulate you on this decision. You've written it, you may have published it, and it certainly works. But what now? Is this all a command line module Node is good for: a project clean up and some data manipulation?
+
+Let's take it a step further. Let's make a command line module that's more than just your compiling script. I am, of course, talking about making it more interactive.
+
+In this talk Irina wants to take you on an adventure that will require cunning, bravery, and maybe some magic. We will walk through obtaining and parsing data, using Node's process functions, and finally improving your module's user experience.
+
+:movie_camera: [video](https://www.youtube.com/watch?v=QLat0Y3jqUA)
+
+### Node.js at PayPal
+Matt Edelman, PayPal
+
+:movie_camera: [video](https://www.youtube.com/watch?v=-00ImeLt9ec)
 
 
 
